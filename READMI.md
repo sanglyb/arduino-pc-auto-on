@@ -1,0 +1,1 @@
+sketch for arduino for automatic turn on pcs. Also there is availability to control power state of pcs via terminal. Full description and scheme are available on my blog - https://www.mytechnote.ru/article/avtomaticheskiy-vklyuchatel-kompyuterov-s-vozmozhnostyu-upravleniya-cherez-set-na-arduino
